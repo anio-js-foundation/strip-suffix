@@ -1,0 +1,12 @@
+{
+  "name": "@anio-js-core-foundation/strip-suffix",
+  "version": "1.0.0",
+  "description": "Remove the suffix of a string.",
+  "main": "index.mjs",
+  "author": "Anio Software <info@anio.software>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anio-js-core-foundation/strip-suffix.git"
+  }
+}
