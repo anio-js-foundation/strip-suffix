@@ -2,7 +2,7 @@
 
 Remove the suffix of a string.
 
-Throws error if string doesn't start with suffix:
+Throws error if string doesn't end with suffix:
 
 ```js
 import stripSuffix from "@anio-js-foundation/strip-suffix"
